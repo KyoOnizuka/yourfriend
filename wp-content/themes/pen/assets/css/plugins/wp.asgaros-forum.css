@@ -1,0 +1,21 @@
+#af-wrapper input[type="submit"] {
+	padding-bottom: 0 !important;
+	padding-top: 0 !important;
+}
+#af-wrapper .editor-row:after {
+	content: ".";
+	display: block;
+	height: 0;
+	clear: both;
+	visibility: hidden;
+}
+* html #af-wrapper .editor-row {
+	height: 1%;
+}
+*:first-child + html #af-wrapper .editor-row {
+	min-height: 1%;
+}
+body.pen_round_corners #af-wrapper .button {
+	border-radius: 50px !important;
+}
+

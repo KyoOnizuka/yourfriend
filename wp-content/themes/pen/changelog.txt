@@ -1,0 +1,145 @@
+== Changelog ==
+
+= 1.3.6 =
+* New typography options
+* Mobile menu button and the "Loading..." text can now be customized
+* Mobile menu availability is now more flexible
+* Several improvements and fixes
+
+= 1.3.5 =
+* Flat versions of the widget color schemes
+* Resizing sticky header is now optional
+* General improvements
+
+= 1.3.4 =
+* New color schemes for widgets
+* Sticky mobile menu
+* Widget areas for the mobile menu
+* Many more new features
+* Several improvements
+
+= 1.3.3 =
+* Some fixes, new options, and improvements
+
+= 1.3.2 =
+* Gradient angle option for button background colors
+* General improvements
+
+= 1.3.1 =
+* Dynamic label for the phone links
+* Compatibility with wide blocks
+* General improvements
+
+= 1.3.0 =
+* New layout options
+* Infinite scrolling
+* New animation options
+* Improved defaults for widgets
+* Increased color contrasts for WCAG compliance
+* Light-colored logo for dark color schemes
+* New styles and color options for the "Loading..." splash screen
+* General improvements
+
+= 1.2.9 =
+* General improvements & some fixes.
+* Replaced SlickNav mobile menu with a custom one.
+
+= 1.2.8 =
+* WooCommerce compatibility.
+* Added animation delay option.
+* Added an optional "Login/Register" button to the site header.
+* Added the ability to override color schemes and font sets per-post.
+* Added TGM Plugin Activation to let users know about the plugin and easily install it.
+* General improvements.
+
+= 1.2.7 =
+* Fixed missing function argument in 404.php
+* Small CSS improvements.
+* Pen plugin got approved right after this release. The plugin adds all those features that we had to remove from the theme due to WP.org rules; it also offers a cool new search feature for post metaboxes (i.e. "Pen Options" section on the Post Edit screen).
+
+= 1.2.4 through 1.2.6 =
+* Removed trailing comma from multiple sprintf() calls that could pass through our tests as we've only tested with PHP7.3 and not versions prior to that.
+
+= 1.2.3 =
+* Localization-related improvements.
+* Disabled the Install Plugin button until it gets approved.
+
+= 1.2.2 =
+* Added the ability to also hide the site header, footer, and navigation per-content.
+* Several improvements.
+
+= 1.2.1 =
+* General improvements.
+* Added the loading spinner back but now it doesn't flicker and still unobtrusive.
+
+= 1.2.0 =
+* Several improvements and some fixes.
+* Loading spinner removed.
+* HTML compression removed.
+
+= 1.1.9 =
+* Several improvements.
+* Removed all the features related to Google+.
+
+= 1.1.8 =
+* Moved Color Schemes and Font Presets from back-end to the front-end as two shortcut menus.
+
+= 1.1.7 =
+* Some features removed due to WordPress.org guidelines, we will do our best to add them back as a plugin.
+* Fixed a number of issues.
+
+= 1.1.6 =
+* New widget areas.
+
+= 1.1.5 =
+* Improved compatibility for WordPress.org.
+
+= 1.1.4 =
+* i18n improvements.
+
+= 1.1.3 =
+* General improvements.
+
+= 1.1.2 =
+* New widget areas.
+* Improved compatibility for WordPress.org.
+
+= 1.1.1 =
+* New feature: Featured image as post header background.
+* General improvements.
+
+= 1.1.0 =
+* Some improvements.
+
+= 1.0.9 =
+* New content template option: Site width.
+* Web Accessibility improvements.
+
+= 1.0.8 =
+* Multiple improvements.
+
+= 1.0.7 =
+* Tons of improvements.
+* Extended animation options to more elements.
+* Added new widget areas.
+
+= 1.0.6 =
+* Even more animations.
+* Added more social network icons.
+* New feature: Thumbnail effects for list views.
+
+= 1.0.5 =
+* Some improvements.
+
+= 1.0.4 =
+* New widget area (header right)
+* Animations through Animate.css
+
+= 1.0.3 =
+* Maintenance release.
+
+= 1.0.2 =
+* Several improvements.
+
+= 1.0.1 =
+* Maintenance release.
